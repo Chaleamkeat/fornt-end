@@ -1,0 +1,51 @@
+
+#dv1{
+    margin: auto;
+    font-size: xx-large ;
+    font-weight: normal;
+    font-style: italic;
+    text-align: center;
+    background-color: #ffa4f0;
+    width: 1000px;
+    height: 100px ;
+
+}
+
+#dv2{
+    margin: auto;
+    font-size: x-large;
+    font-weight: lighter;
+    text-align: center;
+    background-color: hwb(286 24% 22%);
+    width: 1000px;
+    height: 50px ;
+    color: hwb(0 100% 0%);
+}
+
+#dv3{
+    font-weight: normal;
+    text-align: left;
+    background-color: #747474;
+    width: 1000px;
+    height: 550px;
+    color: white;
+    margin: auto;
+}
+#dv4{
+    margin: auto;
+    font-size: x-large;
+    font-weight: normal;
+    text-align: center;
+    background-color: hsl(300, 76%, 53%);
+    width: 1000px;
+    height: 50px;
+}
+span.i{
+    font-style: italic;
+}
+
+.flex-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

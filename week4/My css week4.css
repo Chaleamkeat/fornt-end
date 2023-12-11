@@ -1,0 +1,34 @@
+body{
+    font-size : 30px;
+}
+.p1{
+    font-weight: bolder;
+    background-color: darkgrey;
+    width: 500px;
+}
+
+.p2{
+    font-weight: bolder;
+    text-align: center;
+    background-color: lightcoral;
+    width: 500px;
+}
+
+.p3{
+    font-weight: bolder;
+    text-align: right;
+    background-color: fuchsia;
+    width: 500px;
+}
+span.underline{ 
+    text-decoration: underline;
+    color: blue;
+}
+span.i{
+    font-style: italic;
+    color: yellow;
+}
+span.bold{
+    font-weight: 2px;
+    color: chartreuse;
+}
